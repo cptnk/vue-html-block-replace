@@ -1,0 +1,19 @@
+{
+  "name": "navigation-scroll-vue",
+  "version": "1.0.0",
+  "description": "some static vue-js page",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanislaw Gutsch",
+  "license": "ISC"
+}
